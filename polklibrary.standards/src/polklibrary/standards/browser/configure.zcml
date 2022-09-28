@@ -25,6 +25,15 @@
         permission="zope2.View"
         />
         
+        
+        
+    <browser:page
+        for="Products.CMFCore.interfaces.ISiteRoot"
+        name="user_check"
+        class=".user_check.UserCheckView"
+        permission="cmf.ManagePortal"
+        />
+        
 
   <!-- Publish static files -->
   <plone:static

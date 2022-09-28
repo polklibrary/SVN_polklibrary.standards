@@ -28,6 +28,7 @@ src/polklibrary/standards/browser/configure.zcml
 src/polklibrary/standards/browser/sitemessage_js.pt
 src/polklibrary/standards/browser/sitemessage_view.pt
 src/polklibrary/standards/browser/sitemessage_view.py
+src/polklibrary/standards/browser/user_check.py
 src/polklibrary/standards/browser/overrides/.gitkeep
 src/polklibrary/standards/browser/overrides/Products.CMFPlone.browser.login.templates.login.pt
 src/polklibrary/standards/browser/static/.gitkeep
